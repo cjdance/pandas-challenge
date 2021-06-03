@@ -55,7 +55,7 @@ When looking at the players grouped by age, we see a fairly unsurprising trend, 
 
 ![agedemo](Images/agedemo.PNG)
 
-These players also represent the most value in purchasesd with the 20-24 year age group being the most profitable. These players have the third highest average purchase price, and the third highest average total purchase per person but their volume of purchases is almost three times higher than the next age group (15-19).
+These players also represent the most value in purchases with the 20-24 year age group being the most profitable. These players have the third highest average purchase price, and the third highest average total purchase per person but their volume of purchases is almost three times higher than the next age group (15-19).
 
 These players represent almost 50% of the total purchases made in the game.
 
