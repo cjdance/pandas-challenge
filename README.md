@@ -34,7 +34,7 @@ The first piece of information which stands out is that the player base is overw
 
 This is in comparison to the 14.06% who identified as Female and 1.91% listed as Other/Non-Discolsed.
 
-![gender](/Images/gender.png)
+![gender](Images/gender.PNG)
 
 Of interest in this gender analysis, is that while males make up the majority of the player base, the female and non-disclosed gender players do have a higher average spend, both in total and per person.
 
@@ -42,7 +42,7 @@ Female and non-disclosed players show an average total spend per person oup to 4
 
 These differences are also cancelled out with sheer volume when looking at purchases by Male customers, with 652 purchases total being almost six times as many as the Female players and 13 times as many as the non-disclosed players.
 
-![purchgen](/Images/purchgen.png)
+![purchgen](/Images/purchgen.PNG)
 
 Male players make up both the majority of the player base and the majority of the purchases made in Heroes of PyMoli.
 
