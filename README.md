@@ -28,4 +28,10 @@ All outputs above are generated as a dataframe inside the HeroesofPyMoli_CDW.ipy
 
 ## Insights from the Data
 
+From the data provided we can draw some conclusions around the Heroes of PyMoli Player base.
 
+The first piece of information which stands out is that the player base is overwhelmingly male, with 84.03% of players identifying as male.
+
+This is in comparison to the 14.06% who identified as Female and 1.91% listed as Other/Non-Discolsed.
+
+![gender_tab](Images/gender_tab.png)
